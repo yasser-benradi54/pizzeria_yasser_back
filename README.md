@@ -1,0 +1,38 @@
+pizzeria
+    /app
+        /controllers
+            ClientController.php
+            PizzaController.php
+            CommandeController.php
+        /models
+            Client.php
+            Pizza.php
+            Commande.php
+        /views
+            /client
+                login.php
+                register.php
+            /pizza
+                index.php
+                details.php
+            /commande
+                cart.php
+            /shared
+                header.php
+                footer.php
+    /config
+        config.php
+    /public
+        /css
+            style.css
+        /images
+            pizza1.jpg
+            pizza2.jpg
+        index.php
+    /core
+        Controller.php
+        Model.php
+        Database.php
+    .htaccess
+
+    voici le schema du mvc
